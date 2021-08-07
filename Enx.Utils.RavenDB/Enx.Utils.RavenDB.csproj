@@ -4,6 +4,7 @@
     <TargetFrameworks>net6.0;net5.0</TargetFrameworks>
     <RootNamespace>Enx</RootNamespace>
     <Nullable>enable</Nullable>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>1.0.0</Version>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
